@@ -1,7 +1,7 @@
 # server-stats
 # Server Performance Statistics Script
 
-## Project URL: https://github.com/ank404/server-stats
+## Project URL: https://roadmap.sh/projects/server-stats
 
 A bash script to analyze and display various server performance metrics including CPU usage, memory usage, disk usage, and process information.
 
