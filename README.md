@@ -67,9 +67,3 @@ Server Statistics Report - Generated on: Wed Nov 13 2024 14:30:45 EDT
 | Memory Usage                           | 3.2/15.7 GB (20.4%)                             |
 +----------------------------------------+--------------------------------------------------+
 ```
-
-## Contributing
-
-Feel free to open issues and pull requests for any improvements you can think of!
-
-Project URL: https://roadmap.sh/projects/server-stats
