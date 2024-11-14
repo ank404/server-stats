@@ -1,8 +1,6 @@
 # server-stats
 # Server Performance Statistics Script
 
-## Project URL: https://roadmap.sh/projects/server-stats
-
 A bash script to analyze and display various server performance metrics including CPU usage, memory usage, disk usage, and process information.
 
 ## Features
@@ -74,6 +72,4 @@ Server Statistics Report - Generated on: Wed Nov 13 2024 14:30:45 EDT
 
 Feel free to open issues and pull requests for any improvements you can think of!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Project URL: https://roadmap.sh/projects/server-stats
